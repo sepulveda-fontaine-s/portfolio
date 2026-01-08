@@ -6,9 +6,10 @@
 <p> Master's Degree in Big Data</p>
 <p> PhD candidate (Applied mathematics, Statistics, Optimization) </p>
 
-<p> I'm a mathematician who decided change path from teacher to data scientist. I love working with data, performing models, preparing the data all the process involved.</p>
-<p>This portfolio shows some projects I am and I've been working on since I started the master's degree. More projects soon to be added. </p>
-<p> A collection from simple to more complex analysis and tools, including NLP and the use of Keras, ScikitLearn, Pandas, Numpy, etc.<p>
+<p> Research & Innovation Lead with applied experience in Artificial Intelligence, Data Science, and mathematical modeling across industrial and R&D environments.
+Leads multidisciplinary teams and designs data-driven workflows that improve operational efficiency and decision-making.
+Experienced in European and national R&D initiatives (Horizon Europe, Eurostars), including call scouting, consortium formation, proposal writing, and project execution.
+PhD candidate in Statistics, Optimization, and Applied Mathematics, with research focused on entropy-based optimization methods for AI and Machine Learning.<p>
   
 <ul>
     
