@@ -10,7 +10,7 @@
 Leads multidisciplinary teams and designs data-driven workflows that improve operational efficiency and decision-making.
 Experienced in European and national R&D initiatives (Horizon Europe, Eurostars), including call scouting, consortium formation, proposal writing, and project execution.
 PhD candidate in Statistics, Optimization, and Applied Mathematics, with research focused on entropy-based optimization methods for AI and Machine Learning.<p>
-<p>Selected implementations were delivered in private company repositories; a public portfolio is available on GitHub.<p>
+<p>Selected implementations were delivered in private company repositories.<p>
   
 <ul>
     
