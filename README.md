@@ -9,7 +9,8 @@
 <p> Research & Innovation Lead with applied experience in Artificial Intelligence, Data Science, and mathematical modeling across industrial and R&D environments.
 Leads multidisciplinary teams and designs data-driven workflows that improve operational efficiency and decision-making.
 Experienced in European and national R&D initiatives (Horizon Europe, Eurostars), including call scouting, consortium formation, proposal writing, and project execution.
-PhD candidate in Statistics, Optimization, and Applied Mathematics, with research focused on entropy-based optimization methods for AI and Machine Learning.<p>
+PhD candidate in Statistics, Optimization, and Applied Mathematics, with research focused on entropy-based optimization methods for AI and Machine Learning.
+*Selected implementations were delivered in private company repositories; a public portfolio is available on GitHub.<p>
   
 <ul>
     
