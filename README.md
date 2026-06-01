@@ -13,7 +13,7 @@ PhD candidate in Statistics, Optimization, and Applied Mathematics, with researc
 <p>Selected implementations were delivered in private company repositories.<p>
   
 <ul>
- <li> <a href='https://github.com/sepulveda-fontaine-s/neo4j-movie-recommendation-system'>Graph Movie Recommender Series: a progressive portfolio project that explores recommendation systems using graph databases, graph enrichment, and graph machine learning with Neo4j.
+ <li> <a href='https://github.com/sepulveda-fontaine-s/neo4j-movie-recommendation-system'>Graph (Neo4j) Movie Recommender Series: a progressive portfolio project that explores recommendation systems using graph databases, graph enrichment, and graph machine learning with Neo4j.
         
  <li> <a href='https://www.kaggle.com/filo12guda/learnplatform-covid-19-impact-on-digital-learning'>COVID-19 Impact on Digital Learning (from Kaggle) </a></li>
   
