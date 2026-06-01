@@ -1,5 +1,5 @@
 <h1>Portfolio</h1>
-<h3>Salomé Sepúlveda Fontaine</h3>
+<h3>Salomé A. Sepúlveda-Fontaine</h3>
 <p>Major in Mathematics</p> 
 <p>Major in Education</p>
 <p>Minor in Philosophy</p>
