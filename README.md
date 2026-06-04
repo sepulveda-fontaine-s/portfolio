@@ -3,11 +3,11 @@
   
 <ul>
 
-<li> <a href='https://github.com/sepulveda-fontaine-s/advanced-xai-credit-risk'> Project containing XAI techniques such as: Partial Dependence Plots (PDP), Individual Conditional Expectation (ICE), Accumulated Local Effects (ALE), LIME, Anchors and also explanation robustness (Controlled input perturbations, Stability analysis of local explanations, Feature-overlap stability score), Counterfactual Fairness and Causal Explainable AI (lightweight causal analysis).
+<li> <a href='https://github.com/sepulveda-fontaine-s/advanced-xai-credit-risk'> **Explainable AI part II.** Project containing XAI techniques such as: Partial Dependence Plots (PDP), Individual Conditional Expectation (ICE), Accumulated Local Effects (ALE), LIME, Anchors and also explanation robustness (Controlled input perturbations, Stability analysis of local explanations, Feature-overlap stability score), Counterfactual Fairness and Causal Explainable AI (lightweight causal analysis).
 
-<li> <a href='https://github.com/sepulveda-fontaine-s/explainable-ai-credit-risk'> Explainable AI part I. Analysis of credit risk using model comparison and XAI techniques such as SHAP, DiCE and Fairness. It also contains business analysis.
+<li> <a href='https://github.com/sepulveda-fontaine-s/explainable-ai-credit-risk'> **Explainable AI part I.** Analysis of credit risk using model comparison and XAI techniques such as SHAP, DiCE and Fairness. It also contains business analysis.
   
- <li> <a href='https://github.com/sepulveda-fontaine-s/neo4j-movie-recommendation-system'>Graph (Neo4j) Movie Recommender Series: a progressive portfolio with 6 projects that explore recommendation systems using graph databases, graph enrichment, and graph machine learning with Neo4j.
+ <li> <a href='https://github.com/sepulveda-fontaine-s/neo4j-movie-recommendation-system'>**Graph (Neo4j) Movie Recommender Series**: a progressive portfolio with 6 projects that explore recommendation systems using graph databases, graph enrichment, and graph machine learning with Neo4j.
         
  <li> <a href='https://www.kaggle.com/filo12guda/learnplatform-covid-19-impact-on-digital-learning'>COVID-19 Impact on Digital Learning (from Kaggle) </a></li>
   
