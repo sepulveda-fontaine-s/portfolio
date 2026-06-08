@@ -3,8 +3,8 @@
   
 <ul>
  <li> <a href='https://github.com/sepulveda-fontaine-s/pyspark_music_streaming_behavior_analytics'>  
-   <b> PySpark Part I<b>
-   </a>PySpark and Docker project analyzing synthetic music</a>
+   <b> PySpark Part I: analyzing synthetic music streaming<b>
+   </a>PySpark and Docker project analyzing synthetic music streaming behavior through genre trends, user engagement, and session-level listening patterns.</a>
   
 <li> <a href='https://github.com/sepulveda-fontaine-s/advanced-xai-credit-risk'>
    <b>Explainable AI part II. <b>
