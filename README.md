@@ -2,6 +2,10 @@
 
   
 <ul>
+   <li> <a href='https://github.com/sepulveda-fontaine-s/pyspark_cross_platform_streaming_analytics'>
+     <b> PySpark Part II: from cross-platform analytics to production thinking <b>
+  </a>PySpark and Docker project analyzing synthetic music and video streaming behavior with segmentation, churn indicators, recommendation logic, and production-style churn model training/scoring.</a>
+  
  <li> <a href='https://github.com/sepulveda-fontaine-s/pyspark_music_streaming_behavior_analytics'>  
    <b> PySpark Part I: analyzing synthetic music streaming<b>
    </a>PySpark and Docker project analyzing synthetic music streaming behavior through genre trends, user engagement, and session-level listening patterns.</a>
