@@ -2,7 +2,10 @@
 
   
 <ul>
-
+ <li> <a href='https://github.com/sepulveda-fontaine-s/pyspark_music_streaming_behavior_analytics'>  
+   <b> PySpark Part I<b>
+   </a>PySpark and Docker project analyzing synthetic music</a>
+  
 <li> <a href='https://github.com/sepulveda-fontaine-s/advanced-xai-credit-risk'>
    <b>Explainable AI part II. <b>
      </a>Project containing XAI techniques such as: Partial Dependence Plots (PDP), Individual Conditional Expectation (ICE), Accumulated Local Effects (ALE), LIME, Anchors and also explanation robustness (Controlled input perturbations, Stability analysis of local explanations, Feature-overlap stability score), Counterfactual Fairness and Causal Explainable AI (lightweight causal analysis).</a>
