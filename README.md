@@ -4,7 +4,7 @@
 <ul>
 
    <li> <a href='https://github.com/sepulveda-fontaine-s/langgraph-movie-assistant'>
-           <b>Langgraph movie assistant<b>
+           <b>LangGraph movie assistant<b>
            </a>LangGraph-powered movie assistant with a FastAPI chat UI that turns natural-language requests into Neo4j graph-based movie recommendations. Based on project Graph (Neo4j) Movie Recommender series.</a>
    <li> <a href='https://github.com/sepulveda-fontaine-s/pyspark_cross_platform_streaming_analytics'>
      <b> PySpark Part II: from cross-platform analytics to production thinking <b>
