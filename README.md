@@ -2,7 +2,9 @@
 
   
 <ul>
-
+    <li> <a href='https://github.com/sepulveda-fontaine-s/self_supervised_l-reinforcement_l-navigation'>
+      <b>Self supervised learening and Reinforcement learning navigation<b>
+      </a>Self-supervised representation learning with a convolutional autoencoder and PPO for visual navigation in MiniGrid.</a>
    <li> <a href='https://github.com/sepulveda-fontaine-s/langgraph-movie-assistant'>
            <b>LangGraph movie assistant<b>
            </a>LangGraph-powered movie assistant with a FastAPI chat UI that turns natural-language requests into Neo4j graph-based movie recommendations. Based on project Graph (Neo4j) Movie Recommender series.</a>
