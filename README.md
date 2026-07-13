@@ -4,7 +4,9 @@
 <ul>
 
   <li> <a href='https://github.com/sepulveda-fontaine-s/Time_Series_forecast/settings'> 
-    <b>Time Series forescasting using ensemble statiscal models + machine learning models using Pytest, hyperparameters search. This is a reproducible forecasting project that estimates daily carbon monoxide levels near Paseo de la Castellana 13 using Madrid monitoring-station data from 2016–2018. The pipeline selects a suitable proxy station based on distance and CO data coverage, validates hourly observations, builds daily modelling data, and generates a 14-day forecast using an SVR + Exponential Smoothing ensemble.<b>
+    <b>Time Series forescasting using ensemble statiscal model + machine learning model with Pytest and hyperparameters search.<b> 
+      
+      </a>This is a reproducible forecasting project that estimates daily carbon monoxide levels near Paseo de la Castellana 13 using Madrid monitoring-station data from 2016–2018. The pipeline selects a suitable proxy station based on distance and CO data coverage, validates hourly observations, builds daily modelling data, and generates a 14-day forecast using an SVR + Exponential Smoothing ensemble.</a>
 
   
     <li> <a href='https://github.com/sepulveda-fontaine-s/self_supervised_l-reinforcement_l-navigation'>
