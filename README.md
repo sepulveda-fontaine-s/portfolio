@@ -33,6 +33,11 @@
  <li> <a href='https://github.com/sepulveda-fontaine-s/neo4j-movie-recommendation-system'>
    <b>Graph (Neo4j) Movie Recommender series<b> 
      </a>Aprogressive portfolio with 6 projects that explore recommendation systems using graph databases, graph enrichment, and graph machine learning with Neo4j.</a>
+
+     
+ <li> <a href='https://github.com/sepulveda-fontaine-s?tab=repositories'>
+  <b>Neo-Game Theory. Part I.<b> 
+    </a>Supplementary Material for paper:"An Entropy-based Framework for Hybrid Coalitions in Game Theory. Part I: Human arbitration".</a>
         
  <li> <a href='https://www.kaggle.com/filo12guda/learnplatform-covid-19-impact-on-digital-learning'>COVID-19 Impact on Digital Learning (from Kaggle) </a></li>
   
