@@ -3,7 +3,20 @@
   
 <ul>
 
-  <li> <a href='https://github.com/sepulveda-fontaine-s/Time_Series_forecast/settings'> 
+  <li> <a href='https://github.com/sepulveda-fontaine-s/qlora-qwen2.5-7b'> 
+    <b>Production-oriented LoRA/QLoRA fine-tuning<b> 
+    </a>Production-oriented LoRA/QLoRA fine-tuning project with Qwen2.5-7B, FastAPI, LangGraph, GPU benchmarking, monitoring, and deployment-ready architecture.</a>
+
+  <li> <a href='https://github.com/sepulveda-fontaine-s/llm-supervised-fine-tuning'> 
+    <b>LLM Supervised fine-tuning<b> 
+    </a>End-to-end supervised fine-tuning of Qwen2.5-0.5B on SQuAD v2, covering data preparation, hyperparameter tuning, GPU training, evaluation, FastAPI inference, and a lightweight web demo.</a>
+
+
+  <li> <a href='[https://github.com/sepulveda-fontaine-s/Time_Series_forecast'> 
+    <b>RAG system<b> 
+    </a>Endd-to-end scientific RAG system combining FAISS dense retrieval, BM25, Reciprocal Rank Fusion, cross-encoder reranking, local Qwen generation, validation guardrails, FastAPI, Streamlit, SLURM execution, and retrieval/generation evaluation.</a>
+
+      <li> <a href='https://github.com/sepulveda-fontaine-s/Time_Series_forecast/settings'> 
     <b>Time Series forescasting using ensemble statiscal model + machine learning model with Pytest and hyperparameters search<b> 
     </a>This is a reproducible forecasting project that estimates daily carbon monoxide levels near Paseo de la Castellana 13 using Madrid monitoring-station data from 2016–2018. The pipeline selects a suitable proxy station based on distance and CO data coverage, validates hourly observations, builds daily modelling data, and generates a 14-day forecast using an SVR + Exponential Smoothing ensemble.</a>
 
