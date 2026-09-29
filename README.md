@@ -16,9 +16,10 @@
     <b>RAG system<b> 
     </a>Endd-to-end scientific RAG system combining FAISS dense retrieval, BM25, Reciprocal Rank Fusion, cross-encoder reranking, local Qwen generation, validation guardrails, FastAPI, Streamlit, SLURM execution, and retrieval/generation evaluation.</a>
 
-      <li> <a href='https://github.com/sepulveda-fontaine-s/Time_Series_forecast'> 
-    <b>Time Series forescasting using ensemble statiscal model + machine learning model with Pytest and hyperparameters search<b> 
-    </a>This is a reproducible forecasting project that estimates daily carbon monoxide levels near Paseo de la Castellana 13 using Madrid monitoring-station data from 2016–2018. The pipeline selects a suitable proxy station based on distance and CO data coverage, validates hourly observations, builds daily modelling data, and generates a 14-day forecast using an SVR + Exponential Smoothing ensemble.</a>
+  <li> <a href="https://github.com/sepulveda-fontaine-s/Time_Series_forecast">
+    <b>Time Series Forecasting using an Ensemble Statistical + Machine Learning Model with Pytest and Hyperparameter Search</b>
+  </a>This reproducible forecasting project estimates daily carbon monoxide levels near Paseo de la Castellana 13 using Madrid monitoring-station data from 2016–2018. The pipeline selects a suitable proxy station based on distance and CO data coverage, validates hourly observations, builds daily modelling data, and generates a 14-day forecast using an SVR + Exponential Smoothing ensemble.
+
 
   
   <li> <a href='https://github.com/sepulveda-fontaine-s/self_supervised_l-reinforcement_l-navigation'>
