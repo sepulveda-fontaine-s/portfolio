@@ -12,7 +12,7 @@
     </a>End-to-end supervised fine-tuning of Qwen2.5-0.5B on SQuAD v2, covering data preparation, hyperparameter tuning, GPU training, evaluation, FastAPI inference, and a lightweight web demo.</a>
 
 
-  <li> <a href='[https://github.com/sepulveda-fontaine-s/Time_Series_forecast'> 
+  <li> <a href='https://github.com/sepulveda-fontaine-s/LLM_scientific_RAG'> 
     <b>RAG system<b> 
     </a>Endd-to-end scientific RAG system combining FAISS dense retrieval, BM25, Reciprocal Rank Fusion, cross-encoder reranking, local Qwen generation, validation guardrails, FastAPI, Streamlit, SLURM execution, and retrieval/generation evaluation.</a>
 
