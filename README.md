@@ -3,7 +3,7 @@
   
 <ul>
 
-  <li> <a href='[https://github.com/sepulveda-fontaine-s/qlora-qwen2.5-7b](https://github.com/sepulveda-fontaine-s/llm-supervised-fine-tuning)'> 
+  <li> <a href='https://github.com/sepulveda-fontaine-s/llm-supervised-fine-tuning'> 
     <b>Production-oriented LLM Self- Supervised fine-tuning<b> 
     </a>Full-parameter self-supervised continued pretraining of Qwen2.5-0.5B with explicit PyTorch training, Optuna tuning, MLflow tracking, and SLURM-based GPU execution.
 Includes reproducible evaluation, hybrid retrieval and grounding analysis, FastAPI serving, a browser frontend, tests, and documented deployment evidence.</a>
